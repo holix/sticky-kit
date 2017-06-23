@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leafo/sticky-kit.git"
+    "url": "git+https://github.com/holix/sticky-kit.git"
   },
   "author": "leafo <leafot@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leafo/sticky-kit/issues"
+    "url": "https://github.com/holix/sticky-kit/issues"
   },
-  "homepage": "https://github.com/leafo/sticky-kit#readme",
+  "homepage": "https://github.com/holix/sticky-kit#readme",
   "keywords": [
     "jquery",
     "jquery-plugin",
